@@ -114,7 +114,7 @@ fun FormTambahSiswa(
         )
     ) {
         OutlinedTextField(
-            value = detailSiswa.name,
+            value = detailSiswa.nama,
             onValueChange = { onValueChange(detailSiswa.copy(nama = it)) },
             label = { Text(stringResource(R.string.nama)) },
             modifier = Modifier.fillMaxWidth(),
