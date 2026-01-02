@@ -1,15 +1,8 @@
-## 🧪 Screenshot (MyFirebase)
+# HalamanHome
+<img width="408" height="868" alt="HalamanHome" src="https://github.com/user-attachments/assets/3e751555-44b1-47a6-9f08-e04f7379ce10" />
 
-| Halaman Home | Halaman Entry |
-|--------------|---------------|
-| ![Home](<img width="408" height="868" alt="HalamanHome" src="https://github.com/user-attachments/assets/cb61d3e1-1f01-4431-8cde-eb7f42a73981" />
-) |
-![Entry](<img width="416" height="869" alt="HalamanEntry" src="https://github.com/user-attachments/assets/c2e80297-7abd-4580-b7a2-e06f363b5eb9" />
-) |
+# HalamanEntry
+<img width="416" height="869" alt="HalamanEntry" src="https://github.com/user-attachments/assets/fbc5f949-3813-4531-8d20-7a446a756b9e" />
 
-
-### 🗄️ Database
-![Database](<img width="1920" height="1080" alt="DatabaseFirebase" src="https://github.com/user-attachments/assets/4ee308cf-ba3a-45f1-b9a4-01e8b239a219" />
-)
-
----
+# Database
+<img width="1920" height="1080" alt="DatabaseFirebase" src="https://github.com/user-attachments/assets/42fe720d-f6af-4899-8c54-6729921693be" />
