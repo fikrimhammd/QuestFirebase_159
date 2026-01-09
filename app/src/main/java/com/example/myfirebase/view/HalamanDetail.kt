@@ -1,6 +1,6 @@
 package com.example.myfirebase.view
 
-import androidx.anotation.StringRes
+import androidx.annotation.StringRes
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
