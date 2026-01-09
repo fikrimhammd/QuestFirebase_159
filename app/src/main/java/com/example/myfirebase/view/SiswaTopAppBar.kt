@@ -1,6 +1,6 @@
 package com.example.myfirebase.view
 
-import androidx.compose.material.icons.icons
+import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
