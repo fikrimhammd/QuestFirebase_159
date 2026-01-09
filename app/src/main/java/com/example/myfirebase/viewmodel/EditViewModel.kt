@@ -1,6 +1,6 @@
 package com.example.myfirebase.viewmodel
 
-import RepositorySiswa
+import com.example.myfirebase.repositori.RepositorySiswa
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
